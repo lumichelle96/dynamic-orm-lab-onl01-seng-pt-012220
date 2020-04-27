@@ -24,4 +24,5 @@ class InteractiveRecord
     end
   end
   
-  def table
+  def table_info.each do |column|
+    
